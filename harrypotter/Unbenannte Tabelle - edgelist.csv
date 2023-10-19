@@ -1,0 +1,12 @@
+from,to,weight,relationship
+hermione,harry,3,1
+hermione,ron,3,2
+luna,hermione,2,1
+ron,harry,3,1
+cedric,harry,2,1
+ron,cedric,1,1
+draco,goyle,2,1
+goyle,crabbe,3,1
+crabbe,draco,2,1
+luna,ron,2,1
+luna,harry,2,1
